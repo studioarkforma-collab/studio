@@ -1,0 +1,6 @@
+{
+  "name": "Studio Ark Forma — Strategic Location Analysis",
+  "description": "Interactive architectural site analysis, connectivity matrix, catchment modeling, and presentation board workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
